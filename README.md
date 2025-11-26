@@ -15,13 +15,6 @@ PlayVerse is an intelligent assistant focused on providing information about **v
 
 ---
 
-## 🖼️ Preview
-
-<p align="center">
-  <img src="Assets/screenshot.png" width="700" alt="GameDex UI Screenshot">
-</p>
-
----
 
 ## 🏗️ Architecture
 
