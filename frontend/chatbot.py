@@ -76,7 +76,7 @@ class Chatbot:
             return response.json()
 
     async def render(self):
-        st.title("🎮 GameDex")
+        st.title("🎮 PlayVerse")
 
         with st.sidebar:
             st.subheader("Settings")
